@@ -7,3 +7,18 @@
 [submodule "linux"]
 	path = linux
 	url = https://github.com/torvalds/linux.git
+[submodule "kernelorg-linux"]
+	path = kernelorg-linux
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "googlesource-linux"]
+	path = googlesource-linux
+	url = https://kernel.googlesource.com/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "linuxislinux"]
+	path = linuxislinux
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "freebsd-ports"]
+	path = freebsd-ports
+	url = https://github.com/freebsd/freebsd-ports.git
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/freebsd/freebsd.git
