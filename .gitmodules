@@ -1,3 +1,9 @@
 [submodule "dot"]
 	path = dot
 	url = git@github.com:koumaza/dot.git
+[submodule "WSL2-Linux-Kernel"]
+	path = WSL2-Linux-Kernel
+	url = https://github.com/nathanchance/WSL2-Linux-Kernel.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux.git
