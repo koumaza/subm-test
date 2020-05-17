@@ -22,3 +22,57 @@
 [submodule "freebsd"]
 	path = freebsd
 	url = https://github.com/freebsd/freebsd.git
+[submodule "subm-test"]
+	path = subm-test
+	url = https://github.com/koumaza/subm-test.git
+[submodule "exposure-notifications-server"]
+	path = exposure-notifications-server
+	url = https://github.com/google/exposure-notifications-server.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/TheAlgorithms/Python.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/microsoft/vscode.git
+[submodule "linux-hardened"]
+	path = linux-hardened
+	url = https://github.com/anthraxx/linux-hardened.git
+[submodule "terminal"]
+	path = terminal
+	url = https://github.com/microsoft/terminal.git
+[submodule "atom"]
+	path = atom
+	url = https://github.com/atom/atom.git
+[submodule "node"]
+	path = node
+	url = https://github.com/nodejs/node.git
+[submodule "zen-kernel"]
+	path = zen-kernel
+	url = https://github.com/zen-kernel/zen-kernel.git
+[submodule "go"]
+	path = go
+	url = https://github.com/golang/go.git
+[submodule "godot"]
+	path = godot
+	url = https://github.com/godotengine/godot.git
+[submodule "rails"]
+	path = rails
+	url = https://github.com/rails/rails.git
+[submodule "jekyll"]
+	path = jekyll
+	url = https://github.com/jekyll/jekyll.git
+[submodule "language"]
+	path = language
+	url = https://github.com/google-research/language.git
+[submodule "dart-language"]
+	path = dart-language
+	url = https://github.com/google-research/language.git
+[submodule "languagetool"]
+	path = languagetool
+	url = https://github.com/languagetool-org/languagetool.git
+[submodule "blackarch"]
+	path = blackarch
+	url = https://github.com/BlackArch/blackarch.git
+[submodule "G2"]
+	path = G2
+	url = https://github.com/antvis/G2.git
